@@ -7,7 +7,6 @@
 // Structure for customer account
 struct Account
 {
-    printf("MAhdi\n");
     int accountNumber;
     char name[50];
     char mobile[15];
